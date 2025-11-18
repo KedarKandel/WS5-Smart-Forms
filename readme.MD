@@ -68,5 +68,5 @@ The smart form behavior is handled entirely in app.js:
 
 - Displays a success alert on completion
 
-![Screenshot of the form](./assets/screenshot.png)
+![Screenshot of the form](./assets/formVisual.png)
 
