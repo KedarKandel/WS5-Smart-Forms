@@ -70,3 +70,7 @@ The smart form behavior is handled entirely in app.js:
 
 ![Screenshot of the form](./assets/formVisual.png)
 
+
+* Project takeaways
+
+Working on this project helped me strengthen my understanding of HTML, CSS, and vanilla JavaScript, especially around handling user input and real-time validation. I learned how to structure cleaner JavaScript functions, manage form state, and provide immediate visual feedback to improve user experience. One of the main challenges in this project was to ensure that the validation was both accurate and user-friendly, but it taught me how to debug DOM-related issues more effectively. Overall, this project improved my confidence in building interactive front-end features without relying on frameworks, and it set a solid foundation for integrating a backend in future versions.
