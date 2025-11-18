@@ -23,19 +23,18 @@ The form includes client-side validation, dynamic UI behavior, and a clean user 
 
 
 
-Modular JavaScript
+* Modular JavaScript
 Logic separated into easy-to-understand functions:
 validation, form handlers, and UI updates.
 
 Project Structure
 project-folder/
-│
-├── index.html         # Main form page
-├── styles.css         # Form styling
-├── app.js             # Validation + smart form logic
-└── README.md          # Documentation
+- assets/formVisual.png
+- index.html
+- styles.css
+- app.js
 
-How to Run
+* How to Run
 
 Since this is a purely front-end project, no backend is required.
 
@@ -48,15 +47,13 @@ Option 2 — Run with a local server (recommended)
 To avoid browser security limitations:
 
 Python 3
-
 python3 -m http.server 5500
-
 
 Then visit:
 
 http://localhost:5500/index.html
 
-How It Works
+* How It Works
 
 The smart form behavior is handled entirely in app.js:
 
