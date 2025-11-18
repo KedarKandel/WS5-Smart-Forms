@@ -3,7 +3,7 @@
 A lightweight, front-end–only project demonstrating a smart form built with HTML, CSS, and vanilla JavaScript.
 The form includes client-side validation, dynamic UI behavior, and a clean user experience—without requiring any backend framework.
 
-*  Features
+Features
 
 - Pure HTML, CSS, and JavaScript
 - No frameworks or build tools required.
@@ -23,7 +23,7 @@ The form includes client-side validation, dynamic UI behavior, and a clean user 
 
 
 
-* Modular JavaScript
+Modular JavaScript
 Logic separated into easy-to-understand functions:
 validation, form handlers, and UI updates.
 
@@ -34,7 +34,7 @@ project-folder/
 - styles.css
 - app.js
 
-* How to Run
+How to Run
 
 Since this is a purely front-end project, no backend is required.
 
@@ -53,7 +53,7 @@ Then visit:
 
 http://localhost:5500/index.html
 
-* How It Works
+How It Works
 
 The smart form behavior is handled entirely in app.js:
 
